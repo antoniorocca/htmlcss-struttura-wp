@@ -1,0 +1,75 @@
+body {
+  background-image: url(https://media.discordapp.net/attachments/761546561938784260/765549206365798410/natural-default-pattern.png);
+}
+
+.container {
+  width: 1000px;
+  height: 1200px;
+  margin: auto;
+}
+
+header {
+  background-image: url(https://media.discordapp.net/attachments/761546561938784260/765549233691557938/natural-default-header.jpg?width=1025&height=308);
+  height: 300px;
+}
+
+#main {
+  height: 1000px;
+  overflow: hidden;
+}
+
+.esterno1 {
+  margin-top: 15px;
+  background-color: white;
+  border-color: : black;
+  height: 400px;
+  float: left;
+  width: 200px;
+}
+
+.esterno2 {
+  height: 900px;
+  float: right;
+  width: 200px;
+}
+
+ ul {
+  list-style: none;
+}
+.primo {
+  width:200px;
+  height: 250px;
+  border-color: black;
+  background-color: white;
+}
+
+.terzo {
+  margin-top: 30px;
+  width:200px;
+  height: 250px;
+  border-color: black;
+  background-color: white;
+}
+
+.secondo {
+  margin-top: 30px;
+  width:200px;
+  height: 250px;
+  border-color: black;
+  background-color: white;
+}
+
+#colonna1 {
+  margin-top: 15px;
+  background-color: white;
+  border-color: black;
+  height: 350px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: white;
+  height: 100px;
+}
